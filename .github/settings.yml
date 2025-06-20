@@ -1,0 +1,4 @@
+repository:
+  name: nukefile
+  description: Atomize your `make` tasks with the power of Nushell
+  topics: make, nushell
